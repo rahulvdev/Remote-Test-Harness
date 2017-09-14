@@ -1,0 +1,9 @@
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Serialization\bin\Debug\Serialization.dll
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Serialization\bin\Debug\Serialization.pdb
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Serialization\obj\Debug\Serialization.dll
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Serialization\obj\Debug\Serialization.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Serialization\bin\Debug\Serialization.dll
+F:\VisualStudioProjects\RemoteTestHarness\Serialization\bin\Debug\Serialization.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Serialization\obj\Debug\Serialization.dll
+F:\VisualStudioProjects\RemoteTestHarness\Serialization\obj\Debug\Serialization.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache

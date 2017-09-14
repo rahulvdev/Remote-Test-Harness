@@ -1,0 +1,29 @@
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\MainWindow.g.cs
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\App.g.cs
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface_MarkupCompile.cache
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface_MarkupCompile.lref
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\UserInterface.exe.config
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\UserInterface.exe
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\UserInterface.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Communication.dll
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Messages.dll
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Serialization.dll
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\THMessages.dll
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\BlockingQueue.dll
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Communication.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Messages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Serialization.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\THMessages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\BlockingQueue.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\MainWindow.baml
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.g.resources
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.exe
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.pdb
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Client.exe
+F:\VisualStudioProjects\RemoteTestHarness\UserInterface\bin\Debug\Client.pdb
+F:\SMA resources\Project4 submission\RemoteTestHarness\UserInterface\bin\Debug\UserInterface.exe.config
+F:\SMA resources\Project4 submission\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.exe
+F:\SMA resources\Project4 submission\RemoteTestHarness\UserInterface\obj\Debug\UserInterface.pdb

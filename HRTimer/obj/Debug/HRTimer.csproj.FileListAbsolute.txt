@@ -1,0 +1,5 @@
+F:\VisualStudioProjects\RemoteTestHarness\HRTimer\bin\Debug\HRTimer.exe.config
+F:\VisualStudioProjects\RemoteTestHarness\HRTimer\bin\Debug\HRTimer.exe
+F:\VisualStudioProjects\RemoteTestHarness\HRTimer\bin\Debug\HRTimer.pdb
+F:\VisualStudioProjects\RemoteTestHarness\HRTimer\obj\Debug\HRTimer.exe
+F:\VisualStudioProjects\RemoteTestHarness\HRTimer\obj\Debug\HRTimer.pdb

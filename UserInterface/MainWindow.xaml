@@ -1,0 +1,60 @@
+﻿<Window x:Class="UserInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserInterface"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="512.413" Width="729.64" Unloaded="Window_Unloaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="40" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Grid.ColumnSpan="2" Margin="0,0,-0.333,0">
+            <TextBox Height="24" Width="280" Margin="30,8" x:Name="dllFiles" VerticalAlignment="Center" Text="Choose DLL files" />
+            <Button Height="24" Margin="50,8" x:Name="BrowseLibFiles" VerticalAlignment="Center" Width="100"
+              Click="FileBrowserButton_Click" Content="BrowseDLLPath"/>
+            <Button Height="24" Margin="50,8" x:Name="UploadFiles" VerticalAlignment="Center"  Width="100"
+              Click="UploadDLL_Click" Content="Upload DLL Files"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Grid.ColumnSpan="2" Margin="0,0,-0.333,0">
+            <TextBox Height="24" Width="280" Margin="30,8" x:Name="TestReq" VerticalAlignment="Center" Text="Test Request file" />
+            <Button Height="23" Margin="50,0" Name="BrowseRequest" VerticalAlignment="Center" Width="120"
+              Click="FileBrowserButton_Click">Browse Request File</Button>
+            <Button Height="24" Margin="30,8" x:Name="submitTestRequest" VerticalAlignment="Center" Width="115"
+              Click="SubmitTestRequestButton_Click" Content="Submit Test Request"/>
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" Grid.ColumnSpan="2" Margin="0,0,-0.333,0">
+            <TextBox Height="24" Width="110" Margin="30,8" x:Name="authorName" VerticalAlignment="Center" Text="Author name" />
+            <TextBox Height="24" Width="110" Margin="30,8" x:Name="TestRequestQuery" VerticalAlignment="Center" Text="TestID" />
+            <Button Height="24" Margin="130,8" x:Name="GetLogs" VerticalAlignment="Center" Width="120"
+              Click="queryLogButton_Click" Content="Query Log"/>
+        </StackPanel>
+        <Grid Grid.Row="3" Grid.ColumnSpan="2" Margin="0,0,-0.333,0">
+            <Label Height="28" Margin="30,0" Name="label3" VerticalAlignment="Center"
+             HorizontalAlignment="Right" Width="210" HorizontalContentAlignment="Center">
+                Results</Label>
+            <Label Height="28" Margin="30,0" Name="label2" VerticalAlignment="Center"
+             HorizontalAlignment="Left" Width="210" HorizontalContentAlignment="Center">
+                Logs</Label>
+        </Grid>
+        <Grid Grid.Row="4" Margin="10,0,-10.333,0.333" Grid.ColumnSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <ListBox Grid.Column="0" Margin="30, 20, 15, 20" Name="LogRes" />
+            <ListBox Grid.Column="1" Margin="15, 20, 30, 20" Name="TestRes" />
+        </Grid>
+
+
+    </Grid>
+</Window>

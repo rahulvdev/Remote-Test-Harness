@@ -1,0 +1,9 @@
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Logger\bin\Debug\Logger.dll
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Logger\bin\Debug\Logger.pdb
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Logger\obj\Debug\Logger.dll
+C:\Users\RAHUL VIJAYDEV\documents\visual studio 2015\Projects_rajuru\RemoteTestHarness\Logger\obj\Debug\Logger.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Logger\bin\Debug\Logger.dll
+F:\VisualStudioProjects\RemoteTestHarness\Logger\bin\Debug\Logger.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Logger\obj\Debug\Logger.dll
+F:\VisualStudioProjects\RemoteTestHarness\Logger\obj\Debug\Logger.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

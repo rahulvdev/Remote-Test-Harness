@@ -1,0 +1,15 @@
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Client2.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Client2.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Communication.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Messages.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Serialization.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\THMessages.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\BlockingQueue.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Communication.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Messages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\Serialization.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\THMessages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\bin\Debug\BlockingQueue.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Client2\obj\Debug\Client2.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\RemoteTestHarness\Client2\obj\Debug\Client2.dll
+F:\VisualStudioProjects\RemoteTestHarness\Client2\obj\Debug\Client2.pdb

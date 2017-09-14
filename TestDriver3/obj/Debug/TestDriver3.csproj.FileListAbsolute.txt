@@ -1,0 +1,15 @@
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\TestDriver3.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\TestDriver3.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\ITests.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\TestCode4.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\THMessages.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\Logger.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\Messages.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\ITests.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\TestCode4.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\THMessages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\Logger.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\bin\Debug\Messages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\obj\Debug\TestDriver3.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\obj\Debug\TestDriver3.dll
+F:\VisualStudioProjects\RemoteTestHarness\TestDriver3\obj\Debug\TestDriver3.pdb

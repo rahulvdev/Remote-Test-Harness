@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E79D2E63-E751-4E8C-A003-B2E929066FF7}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RemoteTH</RootNamespace>
+    <AssemblyName>RemoteTH</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestExecutive.cs" />
+    <Compile Include="TestHarness.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Client\Client.csproj">
+      <Project>{5A9A3E3C-C5A3-428E-AA72-38A84E51326A}</Project>
+      <Name>Client</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Communication\Communication.csproj">
+      <Project>{3633F6C5-0D3D-48A6-9AED-15840138E2B5}</Project>
+      <Name>Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\HRTimer\HRTimer.csproj">
+      <Project>{8B8763F5-E7A2-45CA-AC15-D151158F683A}</Project>
+      <Name>HRTimer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ITests\ITests.csproj">
+      <Project>{DDA2BE42-C40E-4BFD-8A43-46607B9C0285}</Project>
+      <Name>ITests</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LoaderTH\LoaderTH.csproj">
+      <Project>{764c33e3-4801-46a8-ac3d-f0786510b6a3}</Project>
+      <Name>LoaderTH</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logger\Logger.csproj">
+      <Project>{00F275EB-C191-41AE-BECF-7FFD4A870E09}</Project>
+      <Name>Logger</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Messages\Messages.csproj">
+      <Project>{3540C1FF-17BD-4975-872E-BF193E327019}</Project>
+      <Name>Messages</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Serialization\Serialization.csproj">
+      <Project>{2A02CDC1-8D17-4C99-AD2B-A6A70ADA1F5E}</Project>
+      <Name>Serialization</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Server\Server.csproj">
+      <Project>{610720A0-E78B-4A79-B02A-F300F48B3F50}</Project>
+      <Name>Server</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\THMessages\TestHarnessMessage.csproj">
+      <Project>{D920FD94-F73B-426A-8669-46CA68F49864}</Project>
+      <Name>TestHarnessMessage</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

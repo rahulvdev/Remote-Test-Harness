@@ -1,0 +1,9 @@
+F:\VisualStudioProjects\RemoteTestHarness\Communication\obj\Debug\Communication.csprojResolveAssemblyReference.cache
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\Communication.dll
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\Communication.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\BlockingQueue.dll
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\Messages.dll
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\BlockingQueue.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Communication\bin\Debug\Messages.pdb
+F:\VisualStudioProjects\RemoteTestHarness\Communication\obj\Debug\Communication.dll
+F:\VisualStudioProjects\RemoteTestHarness\Communication\obj\Debug\Communication.pdb
